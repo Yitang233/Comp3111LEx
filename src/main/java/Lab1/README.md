@@ -13,5 +13,7 @@ Comp3111LEx/
 │  │  └─ java/           # Application code
 │  └─ test/
 │     └─ java/           # JUnit tests
-└─ target/               # Maven build outputs
+├─ target/               # Maven build outputs
+└─ img/                  # Screenshots
 ```
+![lab1_screenshot.png](../../../../img/lab1_screenshot.png)
